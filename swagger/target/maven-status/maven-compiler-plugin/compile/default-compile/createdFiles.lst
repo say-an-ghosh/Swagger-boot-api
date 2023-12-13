@@ -1,0 +1,7 @@
+org\openapitools\model\BasicDetails.class
+org\openapitools\api\BasicDetailsApiController.class
+org\openapitools\model\ModelApiResponse.class
+org\openapitools\api\ApiUtil.class
+org\openapitools\RFC3339DateFormat.class
+com\example\swagger\SwaggerApplication.class
+org\openapitools\api\BasicDetailsApi.class
